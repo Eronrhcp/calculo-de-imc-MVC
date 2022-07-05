@@ -1,5 +1,6 @@
 # imc_mvc
 
+<img width="291" alt="Captura de Tela 2022-07-05 às 11 11 11" src="https://user-images.githubusercontent.com/19657197/177348335-54fda276-eb11-4178-9366-4d49a56d5616.png">
 
 
 A new Flutter project.
